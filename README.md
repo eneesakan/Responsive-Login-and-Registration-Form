@@ -11,9 +11,9 @@ Proje sayfasında sade ve modern bir form tasarımı bizi karşılıyor. İconla
 # Ekran Görüntüleri
 ![1](https://user-images.githubusercontent.com/84860191/197076436-2c944d2c-9b0e-4d6e-ac6c-7f50b36ffc68.png)
 ![2](https://user-images.githubusercontent.com/84860191/197076448-3c918d10-1b0b-48a5-938b-64708a3adcbc.png)
-
-
 # Ekran Videosu
+
+https://user-images.githubusercontent.com/84860191/197076497-ec7e7863-8c8b-44be-8c26-453d9410b45e.mp4
 
 
 
