@@ -9,8 +9,10 @@ Bu projeyi kodlarken Html, Css ve JavaScript teknolijilerinden yararalandım. Cs
 Proje sayfasında sade ve modern bir form tasarımı bizi karşılıyor. İconlar hoverlar inputlar ve container yerleşimi tasarımı ve kolay kullanımı açısından eskimeyecek bir form yapılmıştır. Üye olan kullanıcılar Login ekranından rahatça login olurken, üye olmayan kullanıcılar ise not a member? SingUp Now butonuna tıklayarak Register ekranına geçiyorsunuz ve kullanıcı kaydı gerçekleştirebilirsiniz. Login/Register ekran geçişleri kayarak gerçekleştiriliyor. pwShowHide JavaScript aracı ile girilen parolanızı gizleyip gösterebiliyorsunuz.
 
 # Ekran Görüntüleri
-![1](https://user-images.githubusercontent.com/84860191/197076247-05a9dc21-0227-4b9b-9f9c-4ff134ba76b0.png)
-![2](https://user-images.githubusercontent.com/84860191/197076265-c33ac812-a094-49bf-81d8-c9969a0b4c9f.png)
+![1](https://user-images.githubusercontent.com/84860191/197076436-2c944d2c-9b0e-4d6e-ac6c-7f50b36ffc68.png)
+![2](https://user-images.githubusercontent.com/84860191/197076448-3c918d10-1b0b-48a5-938b-64708a3adcbc.png)
+
+
 # Ekran Videosu
 
 
